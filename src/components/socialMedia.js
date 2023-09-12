@@ -3,9 +3,9 @@ import React from 'react'
 const socialMedia = () => {
     return (
         <div className='socialMedia'>
-            <div className="img">
+            <div className="img ">
                 <span style={{ marginRight: '-100px' }}>
-                    <img src={require('../images/gallery1.jpeg')} alt="" />
+                    <img src={require('../images/gallery1.jpeg')} alt="" className='mt-5' />
                     <br /><small style={{ width: '500px' }}><b>Mr. Eduard the Chairman of Delight Rwanda received foreigner children, A session giving them a briefing introduction lesson on Anti-Human trafficing.</b></small>
                 </span>
                 <span>

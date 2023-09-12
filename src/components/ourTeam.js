@@ -12,8 +12,8 @@ const ourTeam = () => {
                         </p>
                     </div>
                     <div className="cardRight">
-                        <img src={require("../images/ot1.png")} alt="" />
-                        <h4>Gihanna Samson - Executive Director</h4>
+                        <img src={require("../images/ot1.png")}  style={{ width: '200px', height: 'auto' }} alt="" />
+                        <h4>Gihana Samson - Executive Director</h4>
                     </div>
                 </div>
             </div>
@@ -26,8 +26,8 @@ const ourTeam = () => {
                         </p>
                     </div>
                     <div className="cardRight">
-                        <img src={require("../images/ot2.png")} alt="" />
-                        <h4>Emile Safari BIZIMUNGU - Director of Programs</h4>
+                        <img src={require("../images/ot2.png")}  style={{ width: '200px', height: 'auto' }} alt="" />
+                        <h5>Emile Safari BIZIMUNGU - Director of Programs</h5>
                     </div>
                 </div>
                 <div className="card">
@@ -36,9 +36,9 @@ const ourTeam = () => {
                             Olivier is the Project Development Specialist for Delight Rwanda. He is competent in Leadership-level and Public Management as well. He holds a Master’s Degree in Philosophy. Consultant with high competence at Basilica Saint Anne located in Jerusalem Old City, Israel, and Formation Center located at Beira in Mozambique. In addition, he has served as Managing Director at Kigali Monitor, Hitamo High Technology, Kigali Art and High Definition Center, and International Linguistic and interpretation Consultancy center. He played a significant role in Rwanda Poly-UP as a project Facilitator at Edified Generation Rwanda. He worked as USAID in its project called Huguka Dukore Akazi Kanoze as a youth leader.
                         </p>
                     </div>
-                    <div className="cardRight sec">
-                        <img src={require("../images/ot22.png")} alt="" />
-                        <h4>Olivier NGIZWENIMANA-Project Development Specialist</h4>
+                    <div className="">
+                        <img src={require("../images/ot22.png")}  style={{ width: '200px', height: '200px' }} alt="" />
+                        <h6>Olivier NGIZWENIMANA-Project Development Specialist</h6>
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@ const ourTeam = () => {
                         </p>
                     </div>
                     <div className="cardRight">
-                        <img src={require("../images/ot3.png")} alt="" />
+                        <img src={require("../images/ot3.png")}  style={{ width: '200px', height: 'auto' }} alt="" />
                         <h4>Annet MBASINGA Women Promotion and Child Protection</h4>
                     </div>
                 </div>
@@ -62,8 +62,8 @@ const ourTeam = () => {
                         </p>
                     </div>
                     <div className="cardRight sec">
-                        <img src={require("../images/ot4.png")} alt="" />
-                        <h4>Arthur MANZI Motoring, Evaluation Research and Learning Specialist</h4>
+                        <img src={require("../images/ot4.png")}  style={{ width: '200px', height: '200px' }} alt="" />
+                        <h5>Arthur MANZI Motoring, Evaluation Research and Learning Specialist</h5>
                     </div>
                 </div>
             </div>
@@ -76,8 +76,8 @@ const ourTeam = () => {
                         </p>
                     </div>
                     <div className="cardRight">
-                        <img src={require("../images/ot5.png")} alt="" />
-                        <h4>Brinton AKARIZA Front Desk Officer</h4>
+                        <img src={require("../images/ot5.png")}  style={{ width: '200px', height: 'auto' }} alt="" />
+                        <h5>Brinton AKARIZA Front Desk Officer</h5>
                     </div>
                 </div>
             </div>

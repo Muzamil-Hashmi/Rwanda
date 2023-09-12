@@ -38,195 +38,141 @@ const Partner = () => {
                 autoPlay={true}
                 autoPlaySpeed={2000}
             >
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
+              
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+              
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
+               
+               
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+             
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
+             
                 <div>
                     <img src={sc1} alt="" />
                 </div>
+              
+                <div>
+                    <img src={sc3} alt="" />
+                </div>
+              
+                <div>
+                    <img src={sc5} alt="" />
+                </div>
+                <div>
+                    <img src={sc6} alt="" />
+                </div>
+               
+              
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+              
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
+             
+              
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+            
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
+              
+              
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+              
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
+              
+                
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+               
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
+             
+               
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+             
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
+               
+               
                 <div>
                     <img src={sc2} alt="" />
                 </div>
                 <div>
                     <img src={sc3} alt="" />
                 </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
+           
                 <div>
                     <img src={sc5} alt="" />
                 </div>
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
-                <div>
-                    <img src={sc1} alt="" />
-                </div>
-                <div>
-                    <img src={sc2} alt="" />
-                </div>
-                <div>
-                    <img src={sc3} alt="" />
-                </div>
-                <div>
-                    <img src={sc4} alt="" />
-                </div>
-                <div>
-                    <img src={sc5} alt="" />
-                </div>
-                <div>
-                    <img src={sc6} alt="" />
-                </div>
-                <div>
-                    <img src={sc7} alt="" />
-                </div>
+               
             </Carousel>
         </div>
     )

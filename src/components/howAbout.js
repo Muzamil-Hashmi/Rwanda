@@ -10,11 +10,11 @@ const howAbout = () => {
                     <div className="para">
                         <p className='deco'>
                             Delight Rwanda, while implementing its programs/projects as a first step, undertakes community  mobilization to raise awareness on social behavior change and empower girls/women and youth with advanced skills training  and economic development.
-                        </p><br />
-                        <p className='deco'>
+                        </p>
+                        <p className='deco mt-0'>
                             For this purpose, Delight Rwanda management holds meetings with the community members and conducts training/capacity-building sessions and welfare assistance for its beneficiaries.
-                        </p><br />
-                        <p className='deco'>
+                        </p>
+                        <p className='deco mt-0'>
                             Our team has developed the experience through working with local and international partners in different projects such as:
                         </p><br />
                     </div>
@@ -40,7 +40,7 @@ const howAbout = () => {
                             </div>
                         </div>
                         <div className="img">
-                            <div className="imgBox"></div>
+                            <div className="imgBox mt-4"></div>
                             <div className="title">
                                 <h4>Safe Toilet Engagement For Nyagatare Elderly Community</h4>
                             </div>
@@ -355,7 +355,7 @@ const howAbout = () => {
                         </div>
                     </div>
                 </div>
-                <div className="leftContainer prgBtn">
+                <div className="leftContainer prgBtn text-center">
                     <Link to={'/whatWeDo'}>
                         <button>
                             Read More About What We Do &nbsp;&nbsp;<i className="fa fa-long-arrow-right"></i>

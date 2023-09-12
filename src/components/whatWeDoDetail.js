@@ -28,7 +28,7 @@ const whatWeDoDetail = () => {
                         </p>
                     </div>
                     <div className="cardRight sec">
-                        <img src={require("../images/wwd3.png")} alt="" />
+                        <img src={require("../images/bcha2.jpeg")} alt="" style={{width:220}} />
                         <img src={require("../images/wwd2.png")} alt="" />
                     </div>
                 </div>
@@ -70,7 +70,7 @@ const whatWeDoDetail = () => {
                         </p>
                     </div>
                     <div className="cardRight sec">
-                        <img src={require("../images/wwd8.png")} alt="" />
+                        <img src={require("../images/chlid2.jpeg")} alt="" style={{width:220}} />
                     </div>
                 </div>
             </div>

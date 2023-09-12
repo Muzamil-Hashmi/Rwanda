@@ -107,7 +107,7 @@ const Background = () => {
             <div className="image1" id='cont'>
             <div className="container" id='cont'>
 
-<h1 >Always help poor & Deserved People</h1>
+<h1 >Epowered Women Empowered Family</h1>
 <p>
     Join our team by donating any amount or in-kind gifts for street children of Kigali, Rwanda... <solid
         style={{
@@ -134,7 +134,7 @@ const Background = () => {
             <div className="image2">
             <div className="container" id='cont'>
 
-<h1 >Always help poor & Deserved People</h1>
+<h1 >Epowered Women Empowered Family</h1>
 <p>
     Join our team by donating any amount or in-kind gifts for street children of Kigali, Rwanda... <solid
         style={{
@@ -161,7 +161,7 @@ const Background = () => {
             <div className="image3">
             <div className="container" id='cont'>
 
-<h1 >Always help poor & Deserved People</h1>
+<h1 >Epowered Women Empowered Family</h1>
 <p>
     Join our team by donating any amount or in-kind gifts for street children of Kigali, Rwanda... <solid
         style={{
