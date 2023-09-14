@@ -55,7 +55,7 @@ const Background = () => {
   return (
 <>
 <Carousel
-                swipeable={false}
+                swipeable={true}
                 draggable={false}
                 // showDots={true}
                 responsive={responsive}
@@ -105,85 +105,13 @@ const Background = () => {
         
 
             <div className="image1" id='cont'>
-            <div className="container" id='cont'>
-
-<h1 >Epowered Women Empowered Family</h1>
-<p>
-    Join our team by donating any amount or in-kind gifts for street children of Kigali, Rwanda... <solid
-        style={{
-            border: '1px solid #fff',
-            padding: '1px 6px',
-            borderRadius: 5
-        }}
-    >
-        <a href="#" onClick={readMore}
-            style={{ textDecoration: 'none', color: '#fff' }}
-        >Read More</a>
-    </solid>
-</p>
-<button>
-    <Link to={"/donationPage"}>Donate Now</Link>
-</button>
-<button className='cu'>
-    <a href="#contactUsSection">
-        Contact Us
-    </a>
-</button>
-</div>
+     
             </div>
             <div className="image2">
-            <div className="container" id='cont'>
-
-<h1 >Epowered Women Empowered Family</h1>
-<p>
-    Join our team by donating any amount or in-kind gifts for street children of Kigali, Rwanda... <solid
-        style={{
-            border: '1px solid #fff',
-            padding: '1px 6px',
-            borderRadius: 5
-        }}
-    >
-        <a href="#" onClick={readMore}
-            style={{ textDecoration: 'none', color: '#fff' }}
-        >Read More</a>
-    </solid>
-</p>
-<button>
-    <Link to={"/donationPage"}>Donate Now</Link>
-</button>
-<button className='cu'>
-    <a href="#contactUsSection">
-        Contact Us
-    </a>
-</button>
-</div>
+          
             </div>
             <div className="image3">
-            <div className="container" id='cont'>
-
-<h1 >Epowered Women Empowered Family</h1>
-<p>
-    Join our team by donating any amount or in-kind gifts for street children of Kigali, Rwanda... <solid
-        style={{
-            border: '1px solid #fff',
-            padding: '1px 6px',
-            borderRadius: 5
-        }}
-    >
-        <a href="#" onClick={readMore}
-            style={{ textDecoration: 'none', color: '#fff' }}
-        >Read More</a>
-    </solid>
-</p>
-<button>
-    <Link to={"/donationPage"}>Donate Now</Link>
-</button>
-<button className='cu'>
-    <a href="#contactUsSection">
-        Contact Us
-    </a>
-</button>
-</div>
+   
             </div>
 
 

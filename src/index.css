@@ -1213,10 +1213,11 @@ input[type=submit] {
 .partner .container .upperContainer .imgBox .img:nth-child(3),
 .partner .container .upperContainer .imgBox .img:nth-child(4),
 .partner .container .upperContainer .imgBox .img:nth-child(5),
-.partner .container .upperContainer .imgBox .img:nth-child(6) {
+.partner .container .upperContainer .imgBox .img:nth-child(6),
+.partner .container .upperContainer .imgBox .img:nth-child(7) {
     background-size: 200px;
-    height: 300px;
-    width: 300px;
+    height: 100px;
+    width: 100px;
 }
 
 
@@ -1254,11 +1255,7 @@ input[type=submit] {
     height: 90px;
     width: 100%;
 }
-.partner .container .upperContainer .imgBox .img:nth-child(6) {
-    background-image: url("./images/logo4.jpeg");
-    height: 160px;
-    width: 100%;
-}
+
 
 .partner .container .lowerContainer {
     display: flex;
@@ -1342,7 +1339,9 @@ input[type=submit] {
     bottom: -100px;
     box-shadow: 0 3px 5px rgba(0, 0, 0, .4);
 }
-
+.partner .container .lowerContainer .sub1 img {
+    height: 100px !important; /* Adjust the height as needed */
+}
 /* partner section style ends */
 
 /* makeAGift section style starts */

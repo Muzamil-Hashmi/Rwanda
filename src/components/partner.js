@@ -7,7 +7,7 @@ import sc3 from '../images/imgLogo3.png'//ahmed
 import sc4 from '../images/imgLogo4.png'//maryam
 import sc5 from '../images/opd21.png'//british
 import sc6 from '../images/opd41.png'//reb - fine
-import sc7 from '../images/opd51.png'//multihands - fine
+import sc7 from '../images/rmc.PNG'//multihands - fine
 
 const Partner = () => {
     const responsive = {
@@ -29,6 +29,9 @@ const Partner = () => {
             items: 1.7
         }
     };
+    const rmcImageStyle = {
+        height: '150px', // Set the height to your desired value for the rmc image
+      };
     return (
         <div className='carousel'>
             <h2 style={{ textAlign: 'center' }}>Partners and Donors</h2>
@@ -52,7 +55,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-               
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
                
                 <div>
                     <img src={sc2} alt="" />
@@ -66,6 +71,9 @@ const Partner = () => {
                 </div>
                 <div>
                     <img src={sc6} alt="" />
+                </div>
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
                 </div>
              
                 <div>
@@ -82,7 +90,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-               
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
               
                 <div>
                     <img src={sc2} alt="" />
@@ -97,7 +107,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-             
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
               
                 <div>
                     <img src={sc2} alt="" />
@@ -112,7 +124,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-              
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
               
                 <div>
                     <img src={sc2} alt="" />
@@ -127,7 +141,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-              
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
                 
                 <div>
                     <img src={sc2} alt="" />
@@ -142,7 +158,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-             
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
                
                 <div>
                     <img src={sc2} alt="" />
@@ -157,7 +175,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-               
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
                
                 <div>
                     <img src={sc2} alt="" />
@@ -172,7 +192,9 @@ const Partner = () => {
                 <div>
                     <img src={sc6} alt="" />
                 </div>
-               
+                <div>
+                    <img  src={sc7} alt="" style={rmcImageStyle} />
+                </div>
             </Carousel>
         </div>
     )
